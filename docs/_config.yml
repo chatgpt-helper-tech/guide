@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: ChatGPT 最佳使用的教程和指南（2025 全新版）
+description: 本教程涵盖免费使用 + 高效设置 + 实用技巧全解析,2025 全新版详细讲解如何无需注册使用、优化设置、理解 Prompt、区分免费与 Pro 版本、活用 Explorer GPT 与 DALL·E、掌握最新功能，全面提升 AI 使用效率。
+google_analytics: G-LC9J5G7XX4
+url: "https://gptvpnhelper.com"
+baseurl: "/guide"
+plugins:
+  - jekyll-seo-tag
